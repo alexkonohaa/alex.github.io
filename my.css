@@ -1,0 +1,130 @@
+.my-header{
+    background-image: url("beer.jpeg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-imageprofil{
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.my-headtext{
+    color: white;
+    position: absolute;
+}
+
+.hr {
+    border: 2px solid rgb(0, 7, 14);
+}
+
+.hr-home {
+    border: 2px solid rgb(182, 155, 37);
+}
+
+.hr-hoby {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.hr-left {
+    border: 2px solid rgb(255, 136, 0);
+}
+
+.hr-pink {
+    border: 2px solid rgb(197, 70, 180);
+}
+
+.hr-brown {
+    border: 2px solid rgb(88, 59, 26);
+}
+
+.hr-black {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.my-green{
+    color: #fff !important;
+    background-color: rgb(6, 211, 57) !important;
+}
+
+.my-blue{
+    color: #fff !important;
+    background-color: rgb(1, 47, 107) !important;
+}
+
+.my-blue2{
+    color: #fff !important;
+    background-color: rgb(22, 50, 87) !important;
+}
+
+.my-pink{
+    color: #fff !important;
+    background-color: rgb(197, 70, 180) !important;
+}
+
+.my-brown{
+    color: #fff !important;
+    background-color: rgb(88, 59, 26) !important;
+}
+
+.my-red{
+    color: #fff !important;
+    background-color: rgb(87, 0, 0) !important;
+}
+
+.my-biodata-bg{
+    background-image: url("aot.png");
+    background-size: cover;
+    width: 100%;
+}
+
+.my-hoby-bg{
+    background-image: url("beer.jpeg");
+    background-size: cover;
+    width: 100%;
+}
+
+.my-hoby-img{
+    width: 250px;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.my-grey{
+    color: #fff !important;
+    background-color: rgb(110, 101, 97) !important;
+}
+
+.my-brown{
+    color: #fff !important;
+    background-color: rgb(192, 86, 16) !important;
+}
+
+.my-brown2{
+    color: #fff !important;
+    background-color: rgb(94, 41, 5) !important;
+}
+
+.my-blue3{
+    color: #fff !important;
+    background-color: rgb(32, 87, 109) !important;
+}
+.my-font{
+    font-style:oblique
+}
+
+.my-black{
+    color: #fff !important;
+    background-color: rgb(14, 8, 1) !important;
+}
